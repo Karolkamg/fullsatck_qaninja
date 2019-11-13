@@ -1,0 +1,11 @@
+para instalar bibliotecas do ruby (gem)
+gem install --http-proxy http://10.158.15.125:8080 gem
+Ou antes de instalar as gens, rodar:
+set https_proxy=http://10.158.15.125:8080
+set http_proxy=http://10.158.15.125:8080
+
+
+Inspecionar elemento
+$('');
+Buscando texto dentro do elemento
+$('#id').text(); -> parentes depois do texto vazio
