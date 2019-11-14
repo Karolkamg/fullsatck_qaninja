@@ -1,4 +1,0 @@
-[1028/103102.369:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
-[1028/103102.371:ERROR:exception_snapshot_win.cc(98)] thread ID 22080 not found in process
-[1112/114152.537:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
-[1112/114152.542:ERROR:exception_snapshot_win.cc(98)] thread ID 14448 not found in process
