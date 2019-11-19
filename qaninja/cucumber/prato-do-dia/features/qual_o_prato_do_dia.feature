@@ -16,3 +16,7 @@ Funcionalidade: Qual é o prato do dia
         | "Quarta-feira"     | "Feijoada"              |
         | "Quinta-feira"     | "Macarronada"           |
         | "Sexta-feira"      | "Filé de Merluza"       |
+        | "Sábado"           | "Vejo o cardápio"       |
+        | "Domingo"          |  "Fechado"              |
+        | "xpto"             |  "Dia inválido"         |
+        | "abc123"           |  "Dia inválido"         |

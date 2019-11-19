@@ -14,6 +14,14 @@ module Enjoeat
         elsif
             dia == 'Sexta-feira'
             'Filé de Merluza'
+        elsif
+            dia == 'Sábado'
+            'Vejo o cardápio'
+        elsif
+            dia == 'Domingo'
+            'Fechado'
+        else
+            'Dia inválido'
         end
     end
 end
